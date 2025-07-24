@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="430" height="600" viewBox="0 0 430 600" xmlns="http://www.w3.org/2000/svg" style="background:#f9f9f9;font-family:'Segoe UI',Arial,sans-serif;direction:rtl">
+  <rect x="0" y="0" width="430" height="600" fill="#f9f9f9"/>
+  <rect x="0" y="0" width="430" height="60" fill="#1e88e5"/>
+  <text x="215" y="38" font-size="26" fill="#fff" text-anchor="middle">الخدمات</text>
+  <g font-size="16" fill="#333">
+    <text x="350" y="110">خدمات صحية</text>
+    <rect x="40" y="90" width="350" height="40" rx="10" fill="#f1f8e9" stroke="#c8e6c9"/>
+    <text x="215" y="120" font-size="12" fill="#666" text-anchor="middle">طلب تحويل طبي، دعم علاج، حجز موعد طبي</text>
+    <text x="350" y="170">خدمات قانونية</text>
+    <rect x="40" y="150" width="350" height="40" rx="10" fill="#e3f2fd" stroke="#90caf9"/>
+    <text x="215" y="180" font-size="12" fill="#666" text-anchor="middle">استشارات قانونية، مساعدة قانونية</text>
+    <text x="350" y="230">خدمات دروس وتعليم</text>
+    <rect x="40" y="210" width="350" height="40" rx="10" fill="#fffde7" stroke="#ffe082"/>
+    <text x="215" y="240" font-size="12" fill="#666" text-anchor="middle">دروس خصوصية، منح دراسية، دورات تدريبية</text>
+    <text x="350" y="290">سياحة دينية</text>
+    <rect x="40" y="270" width="350" height="40" rx="10" fill="#fce4ec" stroke="#f8bbd0"/>
+    <text x="215" y="300" font-size="12" fill="#666" text-anchor="middle">رحلات عمرة، زيارات دينية</text>
+  </g>
+  <text x="215" y="340" font-size="14" fill="#888" text-anchor="middle">لكل خدمة: نموذج طلب، معلومات، رفع مرفقات</text>
+  <rect x="0" y="540" width="430" height="60" fill="#1e88e5"/>
+  <g>
+    <!-- Centered navigation bar with icons -->
+    <g transform="translate(35,545)">
+      <g>
+        <circle cx="30" cy="10" r="10" fill="#fff"/>
+        <text x="30" y="38" font-size="14" fill="#fff" text-anchor="middle">الرئيسية</text>
+      </g>
+      <g transform="translate(70,0)">
+        <rect x="20" y="0" width="20" height="20" rx="4" fill="#fff"/>
+        <text x="30" y="38" font-size="14" fill="#fff" text-anchor="middle">الخدمات</text>
+      </g>
+      <g transform="translate(140,0)">
+        <polygon points="30,0 40,20 20,20" fill="#fff"/>
+        <text x="30" y="38" font-size="14" fill="#fff" text-anchor="middle">شكاوى</text>
+      </g>
+      <g transform="translate(210,0)">
+        <ellipse cx="30" cy="10" rx="12" ry="8" fill="#fff"/>
+        <text x="30" y="38" font-size="14" fill="#fff" text-anchor="middle">إعلام</text>
+      </g>
+      <g transform="translate(280,0)">
+        <rect x="20" y="0" width="20" height="20" rx="10" fill="#fff" stroke="#1e88e5"/>
+        <text x="30" y="38" font-size="14" fill="#fff" text-anchor="middle">الملف الشخصي</text>
+      </g>
+    </g>
+  </g>
+</svg>
