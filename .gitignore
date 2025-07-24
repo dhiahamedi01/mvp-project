@@ -54,6 +54,6 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-*.json
 
+# Ignore Firebase secret key
 deputy-project-66b15-firebase-adminsdk-fbsvc-650dff959c.json
